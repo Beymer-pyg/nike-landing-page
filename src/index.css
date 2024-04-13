@@ -11,7 +11,7 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
 
-  outline: 1px solid greenyellow;
+  /* outline: 1px solid greenyellow; */
 }
 
 @layer components {
